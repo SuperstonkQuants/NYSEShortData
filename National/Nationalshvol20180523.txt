@@ -1,0 +1,3 @@
+Date|Symbol|Short Exempt Volume|Short Volume|Total Volume|Market
+20180523|ZAYO|0|200|200|C
+20180523|ZUMZ|0|0|200|C

@@ -1,0 +1,4 @@
+Date|Symbol|Short Exempt Volume|Short Volume|Total Volume|Market
+20180522|YCS|0|100|200|C
+20180522|YELP|0|0|100|C
+20180522|YUM|0|100|200|C

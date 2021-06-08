@@ -1,0 +1,5 @@
+Date|Symbol|Short Exempt Volume|Short Volume|Total Volume|Market
+20180521|YCS|0|100|200|C
+20180521|YUM|0|100|200|C
+20180521|YY|0|200|300|C
+20180521|ZNGA|0|300|1100|C
